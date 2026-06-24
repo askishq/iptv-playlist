@@ -1,9 +1,9 @@
 logo = "https://i.postimg.cc/WzMrTGFJ/20260624-154406.jpg"
 
 channels = [
-    ("FIFA 2026 1", "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782373269URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ETR9gt1r4keKvdtFS38PYlOqYSMV1JtcKkctph4wDsnXHvLWV8LlbKqq9hv2BcEJeu2rOjWDxno-CSkTysOxAw"),
+    ("FIFA 2026 1", "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782373269~Starts=1782286869~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ETR9gt1r4keKvdtFS38PYlOqYSMV1JtcKkctph4wDsnXHvLWV8LlbKqq9hv2BcEJeu2rOjWDxno-CSkTysOxAw"),
 
-    ("FIFA 2026 2", "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782373269URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20Starts=1782286869Signature=ETR9gt1r4keKvdtFS38PYlOqYSMV1JtcKkctph4wDsnXHvLWV8LlbKqq9hv2BcEJeu2rOjWDxno-CSkTysOxAw"),
+    ("FIFA 2026 2", "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782373269~Starts=1782286869~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ETR9gt1r4keKvdtFS38PYlOqYSMV1JtcKkctph4wDsnXHvLWV8LlbKqq9hv2BcEJeu2rOjWDxno-CSkTysOxAw"),
 
     ("FIFA 2026 4", "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/index.m3u8?edge-cache-token=Expires=1782373269URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ETR9gt1r4keKvdtFS38PYlOqYSMV1JtcKkctph4wDsnXHvLWV8LlbKqq9hv2BcEJeu2rOjWDxno-CSkTysOxAw"),
 
