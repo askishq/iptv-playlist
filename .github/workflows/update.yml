@@ -1,4 +1,4 @@
-name: IPTV Auto Update
+name: IPTV Auto Update 1
 
 on:
   schedule:
