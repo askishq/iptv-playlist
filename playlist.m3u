@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="FIFA 1",FIFA 1
+URL_1
+
+#EXTINF:-1 tvg-name="FIFA 2",FIFA 2
+URL_2
+
+#EXTINF:-1 tvg-name="FIFA 3",FIFA 3
+URL_3
+
+#EXTINF:-1 tvg-name="FIFA 4",FIFA 4
+URL_4
+
+#EXTINF:-1 tvg-name="FIFA 5",FIFA 5
+URL_5
+
+#EXTINF:-1 tvg-name="FIFA 6",FIFA 6
+URL_6
