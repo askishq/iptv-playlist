@@ -1,0 +1,30 @@
+name: IPTV Auto Update
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # প্রতি 10 মিনিটে রান হবে
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Run playlist generator
+        run: python generate.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "auto-bot"
+          git config --global user.email "bot@example.com"
+          git add .
+          git commit -m "auto update playlist" || echo "no changes"
+          git push
